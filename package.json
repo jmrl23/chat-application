@@ -1,7 +1,8 @@
 {
   "name": "chat-application",
   "version": "0.1.0",
-  "private": true,
+  "author": "Jomariel Gaitera <jojogaitera@gmail.com>",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
